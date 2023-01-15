@@ -1,0 +1,95 @@
+
+[
+    {
+      "titulo": "Andromeda",
+      "creditos": "Space Image",
+      "imagem": "/assets/imagens/galeria/Andromeda.jpg",
+      "id": "1",
+      "tag": "Galáxias"
+    },
+    {
+      "titulo": "NGC 3314",
+      "creditos": "Space Image",
+      "imagem": "/assets/imagens/galeria/NGC3314.jpg",
+      "id": "2",
+      "tag": "Galáxias"
+    },
+    {
+      "titulo": "Galáxia do Rodamoinho",
+      "creditos": "Space Image",
+      "imagem": "/assets/imagens/galeria/rodamoinho.jpg",
+      "id": "3",
+      "tag": "Galáxias"
+    },
+    {
+      "titulo": "Jápeto, lua de Saturno",
+      "creditos": "Space Image",
+      "imagem": "/assets/imagens/galeria/jápeto.jpg",
+      "id": "4",
+      "tag": "Lua"
+    },
+    {
+      "titulo": "Io, lua de Júpiter",
+      "creditos": "Space Image",
+      "imagem": "/assets/imagens/galeria/io.jpg",
+      "id": "5",
+      "tag": "Lua"
+    },
+    {
+      "titulo": "Atlas, lua de Saturno",
+      "creditos": "Space Image",
+      "imagem": "/assets/imagens/galeria/atlas.jpg",
+      "id": "6",
+      "tag": "Lua"
+    },
+    {
+      "titulo": "Lua da Terra",
+      "creditos": "Space Image",
+      "imagem": "/assets/imagens/galeria/foto-3.png",
+      "id": "7",
+      "tag": "Lua"
+    },
+    {
+      "titulo": "Betelgeuse",
+      "creditos": "Space Image",
+      "imagem": "/assets/imagens/galeria/betelgeuse.jpg",
+      "id": "8",
+      "tag": "Estrelas"
+    },
+    {
+      "titulo": "Capella",
+      "creditos": "Space Image",
+      "imagem": "/assets/imagens/galeria/foto-10.png",
+      "id": "9",
+      "tag": "Estrelas"
+    },
+    {
+      "titulo": "Sírio",
+      "creditos": "Space Image",
+      "imagem": "/assets/imagens/galeria/sirius.jpg",
+      "id": "10",
+      "tag": "Estrelas"
+    },
+    {
+      "titulo": "Pilares da Criação",
+      "creditos": "Space Image",
+      "imagem": "/assets/imagens/galeria/pilares.jpg",
+      "id": "11",
+      "tag": "Nebulosas"
+    },
+    {
+      "titulo": "Roseta",
+      "creditos": "Space Image",
+      "imagem": "/assets/imagens/galeria/roseta.jpg",
+      "id": "12",
+      "tag": "Nebulosas"
+    },
+    {
+      "titulo": "Borboleta",
+      "creditos": "Space Image",
+      "imagem": "/assets/imagens/galeria/borboleta.jpg",
+      "id": "13",
+      "tag": "Nebulosas"
+    }
+  ]
+  
