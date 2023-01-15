@@ -26,5 +26,11 @@
       border-radius: 8px;
       cursor: pointer;
     }
+
+    @media only screen and (max-width: 768px) {
+      li {
+        margin: 10px;
+      }
+    }
   }
 }

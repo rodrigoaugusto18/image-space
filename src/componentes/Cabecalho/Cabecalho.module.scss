@@ -28,6 +28,13 @@
       -webkit-mask-composite: xor;
       mask-composite: exclude;
     }
+
+    @media only screen and (max-width: 500px) {
+      &{
+        display: none;
+      }
+    }
+
   }
 
   &__input {
